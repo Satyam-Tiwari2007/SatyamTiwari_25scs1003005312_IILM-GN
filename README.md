@@ -42,7 +42,14 @@ The system provides an **interactive visualization platform** to support wildlif
 ---
 
 ## 📁 Project Structure
-wildlife-corridor-app/ ├── app.py ├── analysis.py ├── utils.py ├── requirements.txt └── images/ ├── output1.png └── output2.png
+wildlife-corridor-app/
+       ├──app.py 
+       ├── analysis.py 
+       ├── utils.py 
+       ├── requirements.txt 
+       └── images/ 
+              ├── output1.png 
+              └── output2.png
 
 ---
 
